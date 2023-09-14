@@ -1,0 +1,58 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+html {
+  font-size: 62.5%;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.w-full {
+  width: 100%;
+}
+
+.text-body-1 {
+  font-size: 1.6rem;
+}
+
+.border-1 {
+  border: 1px solid black;
+}
+
+.border-collapse {
+  border-collapse: collapse;
+}
+
+.flex {
+  display: flex;
+  align-items: center;
+  gap: 1.25rem;
+}
+
+.justify-center {
+  justify-content: center;
+}
+.text-center {
+  text-align: center;
+}
+.pointer {
+  cursor: pointer;
+}
+
+.link {
+  text-decoration: none;
+  background: rgba(113, 113, 244, 1);
+  color: white;
+  padding: 10px 20px;
+  display: block;
+  font-size: 1.6rem;
+  width: 5%;
+}
