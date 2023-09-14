@@ -30,4 +30,4 @@ npm run dev or yarn run dev
 
 ## Env File
 
-update PORT and MONGO_URI variable
+update PORT and MONGO_URI variable in .env file
