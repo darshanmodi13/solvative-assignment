@@ -27,3 +27,7 @@ npm run dev or yarn run dev
 /api/review/:id - put - update single review
 
 /api/review/:id - delete - delete single review
+
+## Env File
+
+update PORT and MONGO_URI variable
